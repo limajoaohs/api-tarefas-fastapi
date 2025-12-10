@@ -1,22 +1,22 @@
-# 🚀 Task Management API
+# Task Management API
 
 A REST API for task management (To-Do list) built with Python and FastAPI as part of my learning journey and back-end development portfolio.
 
-## ✨ Main Features
+## Main Features
 
 -   **Create tasks:** Add new tasks to your list.
 -   **List tasks:** View all registered tasks.
 -   (Coming soon) Update tasks.
 -   (Coming soon) Delete tasks.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 -   **Language:** Python 3.10+
 -   **Framework:** FastAPI
 -   **Server:** Uvicorn
 -   **Data Validation:** Pydantic
 
-## ▶️ How to Run the Project
+## How to Run the Project
 
 Follow the steps below to run the project locally.
 
